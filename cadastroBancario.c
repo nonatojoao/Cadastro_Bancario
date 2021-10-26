@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h> //Teste
 
 int cadastraUsuario(int *chave, int *senha){
 
